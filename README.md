@@ -1,0 +1,2 @@
+# mailextrapola
+script termux 
